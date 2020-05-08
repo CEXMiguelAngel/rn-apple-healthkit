@@ -1,4 +1,4 @@
-declare module "rn-apple-healthkit" {
+declare module "rn-apple-healthkit-cex" {
     export interface HealthKitPermissions {
         permissions: {
             read: string[];
