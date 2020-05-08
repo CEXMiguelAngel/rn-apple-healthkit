@@ -1,11 +1,11 @@
 {
-  "name": "rn-apple-healthkit",
+  "name": "rn-apple-healthkit-cex",
   "version": "0.8.0",
   "description": "A React Native package for interacting with Apple HealthKit",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/terrillo/rn-apple-healthkit.git"
+    "url": "git+https://github.com/CEXMiguelAngel/rn-apple-healthkit-cex.git"
   },
   "keywords": [
     "Apple",
@@ -18,10 +18,10 @@
     "ios"
   ],
   "bugs": {
-    "url": "https://github.com/terrillo/rn-apple-healthkit/issues"
+    "url": "https://github.com/CEXMiguelAngel/rn-apple-healthkit-cex/issues"
   },
-  "homepage": "https://github.com/terrillo/rn-apple-healthkit",
-  "author": "Terrillo Walls",
+  "homepage": "https://github.com/CEXMiguelAngel/rn-apple-healthkit-cex",
+  "author": "CEX forked from Terrillo Walls",
   "license": "MIT",
   "devDependencies": {
     "react": "16.8.3",
