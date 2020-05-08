@@ -5,8 +5,8 @@ A React Native bridge module for interacting with Apple Healthkit data. Checkout
 
 Install the [rn-apple-healthkit] package from npm:
 
-- Run `npm install rn-apple-healthkit --save`
-- Run `react-native link rn-apple-healthkit`
+- Run `npm install rn-apple-healthkit-cex --save`
+- Run `react-native link rn-apple-healthkit-cex`
 - Run `cd ./ios && pod install`
 - Update `./ios/<Project Name>/info.plist` in your React Native project
 ```
@@ -33,7 +33,7 @@ If new read/write permissions are added to the options object then the app user 
 `initHealthKit` requires an options object with Healthkit permission settings
 
 ```javascript
-import AppleHealthKit from 'rn-apple-healthkit';
+import AppleHealthKit from 'rn-apple-healthkit-cex';
 
 let options = {
     permissions: {
