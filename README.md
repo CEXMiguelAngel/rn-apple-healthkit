@@ -1,3 +1,7 @@
+# CEX Note
+
+This package is a fork from rn-apple-healthkit plus PR merged from gmatikas to read Oxygen Saturation
+
 # React Native Apple Healthkit
 A React Native bridge module for interacting with Apple Healthkit data. Checkout the [full documentation](https://github.com/terrillo/rn-apple-healthkit/tree/master/docs)
 
